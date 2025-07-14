@@ -93,7 +93,3 @@ def extract_data(path):
 
     return dataset
 
-raw_path = PATH_DATASET +"/Raw_data.zip"
-
-dataset= extract_data(raw_path)
-print(dataset)
