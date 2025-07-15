@@ -4,9 +4,9 @@
 
 
 # Global variables
-PATH_DATASET = "./datasets"
-PATH_SCRIPTS = "./scripts"
-PATH_RESULTS = "./results"
+PATH_DATASET = "../datasets"
+PATH_SCRIPTS = "../scripts"
+PATH_RESULTS = "../results"
 
 
 #import libraries

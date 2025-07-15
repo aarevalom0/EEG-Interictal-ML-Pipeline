@@ -2,3 +2,5 @@
 datasets/Bonn/
 datasets/Delhi/
 
+#Scripts cache
+scripts/__pycache__/
