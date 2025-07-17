@@ -1,5 +1,5 @@
 # Load EEG datasets
-# This script loads and preprocesses EEG datasets from the specified directories.
+# This script loads  EEG datasets from the specified directories.
 
 
 
